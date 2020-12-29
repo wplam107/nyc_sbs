@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Downloaded data
+/tl_2019_us_zcta510
+*.csv
+*.xlsx
